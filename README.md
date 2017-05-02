@@ -4,9 +4,9 @@ activiti-CustomUserManagement
 Activiti - custom user management
 
 Forum topics:
-* Exchange IdentityService (or other services) http://forums.activiti.org/en/viewtopic.php?f=4&t=427
-* Use own User/Group-tables: http://forums.activiti.org/en/viewtopic.php?f=3&t=345
-* How to Use own User Maangement instead of Activiti provided http://forums.activiti.org/en/viewtopic.php?f=6&t=6155
+* Exchange IdentityService (or other services) https://community.alfresco.com/thread/215991-exchange-identityservice-or-other-services
+* Use own User/Group-tables: https://community.alfresco.com/thread/215911-use-own-usergroup-tables
+* How to Use own User Maangement instead of Activiti provided https://community.alfresco.com/thread/220239-how-to-use-own-user-maangement-instead-of-activiti-provided
 
 This sample uses spring for configuration: src/main/resources/META-INF/spring/custom-activiti-beans.xml
 
